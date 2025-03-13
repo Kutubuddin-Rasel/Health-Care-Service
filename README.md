@@ -74,10 +74,6 @@ The system provides a centralized platform with real-time record keeping, offeri
    - Start Apache and MySQL via the XAMPP control panel.
    - Access the website at `http://localhost/health-care-service`.
 
-## Screenshots
-
-*Include screenshots of key pages (Login, Sign-Up, Dashboards, Admin interface) as needed.*
-
 ## Contributions & Feedback
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or bug fixes. For questions or suggestions, please use the issue tracker.
